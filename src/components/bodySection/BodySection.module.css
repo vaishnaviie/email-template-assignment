@@ -1,0 +1,6 @@
+.body_section_container {
+  display: flex;
+  padding: 40px 0px 80px 0px;
+  align-items: flex-start;
+  gap: 24px;
+}

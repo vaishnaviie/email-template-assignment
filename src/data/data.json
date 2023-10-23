@@ -1,0 +1,124 @@
+{
+  "emailData": [
+    {
+      "category_id": 1,
+      "category": "Announcement",
+      "items": [
+        {
+          "id": "1a",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Featured Service"
+        },
+        {
+          "id": "2a",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Weekly Newsletter"
+        },
+        {
+          "id": "3a",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "New Product/Service Announcement"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category": "Educate & Inform ",
+      "items": [
+        {
+          "id": "1b",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "New Product/Service Announcement"
+        },
+        {
+          "id": "2b",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Weekly Newsletter"
+        },
+        {
+          "id": "3b",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Editorial Newletter"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category": "Announcement",
+      "items": [
+        {
+          "id": "1c",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Featured Service"
+        },
+        {
+          "id": "2c",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Weekly Newsletter"
+        },
+        {
+          "id": "3c",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Editorial Newletter"
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "category": "Educate & Inform ",
+      "items": [
+        {
+          "id": "1d",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Featured Service"
+        },
+        {
+          "id": "2d",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Weekly Newsletter"
+        },
+        {
+          "id": "3d",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "New Product/Service Announcement"
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "category": "Ocassions",
+      "items": [
+        {
+          "id": "1e",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Featured Service"
+        },
+        {
+          "id": "2e",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Featured Service"
+        },
+        {
+          "id": "3e",
+          "img": "https://images.unsplash.com/photo-1695479626917-e0fb0fc76ec4?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+          "isPremium": "true",
+          "title": "Featured Service"
+        }
+      ]
+    }
+  ]
+}

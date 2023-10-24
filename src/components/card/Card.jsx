@@ -10,7 +10,9 @@ const Card = ({ category }) => {
         {category.items?.map((item) => (
           <div className={styles.card_item}>
             <img src={item?.img} alt="img" />
-            <h3>{item?.title}</h3>
+            <div className={styles.card_heading_wrapper}>
+              <h3 className={styles.card_heading}>{item?.title}</h3>
+            </div>
           </div>
         ))}
       </div>

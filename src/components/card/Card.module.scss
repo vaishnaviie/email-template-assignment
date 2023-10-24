@@ -30,4 +30,24 @@
     width: 100%;
     border-radius: 12px 12px 0 0;
   }
+
+  .card_heading_wrapper {
+    display: flex;
+    padding: 16px;
+    align-items: flex-start;
+    gap: 8px;
+    flex: 1 0 0;
+    align-self: stretch;
+
+    .card_heading {
+      color: red;
+      color: var(--neutrals-grey-100, #161616);
+      // font-family: Helvetica Neue;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 24px; /* 133.333% */
+      letter-spacing: -0.18px;
+    }
+  }
 }

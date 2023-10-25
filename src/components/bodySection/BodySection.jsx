@@ -6,9 +6,11 @@ import Sidebar from "../sidebar/Sidebar";
 
 const BodySection = () => {
   return (
-    <div className={styles.body_section_container}>
-      <Sidebar />
-      <ProductListing />
+    <div className="layout">
+      <div className={styles.body_section_container}>
+        <Sidebar />
+        <ProductListing />
+      </div>
     </div>
   );
 };

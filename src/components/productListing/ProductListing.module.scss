@@ -8,7 +8,14 @@
 
 .Products_list {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   align-items: flex-start;
   gap: 40px;
+}
+
+@media only screen and (max-width: 500px) {
+  .Product_list_container {
+    background-color: rgb(151, 121, 121);
+  }
 }

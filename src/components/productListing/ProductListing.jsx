@@ -47,35 +47,9 @@ const ProductListing = () => {
     <div className={styles.Product_list_container}>
       <Filters />
 
-      {/* <div className={styles.Products_list}>
+      <div className={styles.Products_list}>
         {sortedData?.map((category, index) => (
           <Card category={category} />
-        ))}
-      </div> */}
-
-      <div style={{ overflow: "auto" }}>
-        {sortedData.map((category, index) => (
-          <li>
-            <h1>{category?.category}</h1>
-            <div
-              style={{
-                width: "500px",
-                display: "flex",
-                gap: "20px",
-                overflow: "auto",
-              }}
-            >
-              {category?.items.map((item) => (
-                <div
-                  style={{
-                    width: "300px",
-                    height: "200px",
-                    backgroundColor: "red",
-                  }}
-                ></div>
-              ))}
-            </div>
-          </li>
         ))}
       </div>
     </div>

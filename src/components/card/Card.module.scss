@@ -6,11 +6,11 @@
   width: 100%;
 
   .card_container {
-    overflow-x: scroll;
+    // overflow-x: scroll;
     display: flex;
     align-items: flex-start;
     gap: 16px;
-    width: 500px;
+    // width: 500px;
 
     .card_item {
       display: flex;

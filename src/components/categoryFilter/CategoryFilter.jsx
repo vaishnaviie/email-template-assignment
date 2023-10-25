@@ -17,7 +17,8 @@ const CategoryFilter = () => {
   };
 
   return (
-    <div>
+    <div className={styles.sidebar}>
+      <span>Categories</span>
       {["Announcement", "Educate & Inform ", "Invitation", "Ocassions"].map(
         (category) => (
           <div className={styles.checkbox}>

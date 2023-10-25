@@ -112,18 +112,22 @@
     }
   }
 
-  .category_filter {
-    // position: absolute;
-    // top: 50px;
-    right: 0;
-    width: 170px;
-    // height: 20px;
-    // border: 1px solid red;
-    border-radius: 5px;
-    z-index: 9999;
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
-      0 4px 6px -4px rgb(0 0 0 / 0.1);
-    background-color: white;
+  .category_filter_container {
+    display: none;
+
+    .category_filter {
+      // position: absolute;
+      // top: 50px;
+      right: 0;
+      width: 170px;
+      // height: 20px;
+      // border: 1px solid red;
+      border-radius: 5px;
+      z-index: 9999;
+      box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
+        0 4px 6px -4px rgb(0 0 0 / 0.1);
+      background-color: white;
+    }
   }
 }
 

@@ -85,7 +85,7 @@ const Filters = () => {
         )}
       </div>
 
-      <div className={styles.sort_dropdown}>
+      <div className={styles.category_filter_container}>
         <button
           className={styles.btn_sort}
           onClick={() => setShowCategoryFilter(!showCategoryFilter)}
